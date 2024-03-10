@@ -220,7 +220,6 @@ nav ul li a {
 }
 
 .service {
-    /* width: 450px; */
     padding: 3rem 2rem;
     text-align: center;
     background: var(--primeryBackGroundColor);
