@@ -446,5 +446,5 @@ footer {
 }
 
 .footer-icon a:hover svg {
-    fill: #000;
+    fill: var(--borderColor);
 }
